@@ -43,8 +43,6 @@ youtube-clone/ ├── index.html ├── styles/ │ ├── general.css 
    ```bash
    git clone https://github.com/redumamo/youtube-clone.git
 
-📸 Screenshot
-![alt text](image.png)
 ---
 👤 Author
 
